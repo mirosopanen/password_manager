@@ -13,9 +13,9 @@ I am going to continue working on this project when I have enough time for that.
 
 ### Tasks to do
 
-- [ ] Setup firebase
+- [ ] Setup some kind of server & database for accessing passwords when needed
 
-  - [ ] Connect server to firebase and test that it works fine
+  - [ ] Connect server to database and test that it works fine
 
 - [ ] Get inputs from user
 - [ ] Function for sending user inputs data to firebase
