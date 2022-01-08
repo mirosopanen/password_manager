@@ -4,6 +4,13 @@ Password manager that uses Google firebase as storing passwords. This is not rec
 
 ---
 
+
+**NOTE**
+
+I am going to continue working on this project when I have enough time for that.
+
+---
+
 ### Tasks to do
 
 - [ ] Setup firebase
