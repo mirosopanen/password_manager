@@ -1,5 +1,7 @@
 # Password_manager
 
+Updata: Going to make TUI-version of this
+
 Password manager that uses secured json file for storing passwords. This is not recommended for actual use but this is just a practice project.
 
 ---
